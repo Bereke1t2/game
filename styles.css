@@ -92,6 +92,9 @@ body {
    #level-title,.re-start{
     font-size: 2rem;
   }
+   .row{
+    margin-left: -5vw;
+  }
   .header{
     display: grid;
     grid-template-columns: 12fr 1fr;
