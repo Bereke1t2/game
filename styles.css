@@ -89,6 +89,9 @@ body {
   .container{
     width: 80%;
   }
+   #level-title,.re-start{
+    font-size: 2rem;
+  }
   .header{
     display: grid;
     grid-template-columns: 12fr 1fr;
